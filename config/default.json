@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://tspear-admin:TSTAdmin@cluster0.0pxoe.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mySecretToken"
+}
